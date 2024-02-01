@@ -1,0 +1,15 @@
+C:\Users\backe\dotNet\TicketingSystem\bin\Debug\net6.0\TicketingSystem.exe
+C:\Users\backe\dotNet\TicketingSystem\bin\Debug\net6.0\TicketingSystem.deps.json
+C:\Users\backe\dotNet\TicketingSystem\bin\Debug\net6.0\TicketingSystem.runtimeconfig.json
+C:\Users\backe\dotNet\TicketingSystem\bin\Debug\net6.0\TicketingSystem.dll
+C:\Users\backe\dotNet\TicketingSystem\bin\Debug\net6.0\TicketingSystem.pdb
+C:\Users\backe\dotNet\TicketingSystem\obj\Debug\net6.0\TicketingSystem.csproj.AssemblyReference.cache
+C:\Users\backe\dotNet\TicketingSystem\obj\Debug\net6.0\TicketingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\backe\dotNet\TicketingSystem\obj\Debug\net6.0\TicketingSystem.AssemblyInfoInputs.cache
+C:\Users\backe\dotNet\TicketingSystem\obj\Debug\net6.0\TicketingSystem.AssemblyInfo.cs
+C:\Users\backe\dotNet\TicketingSystem\obj\Debug\net6.0\TicketingSystem.csproj.CoreCompileInputs.cache
+C:\Users\backe\dotNet\TicketingSystem\obj\Debug\net6.0\TicketingSystem.dll
+C:\Users\backe\dotNet\TicketingSystem\obj\Debug\net6.0\refint\TicketingSystem.dll
+C:\Users\backe\dotNet\TicketingSystem\obj\Debug\net6.0\TicketingSystem.pdb
+C:\Users\backe\dotNet\TicketingSystem\obj\Debug\net6.0\TicketingSystem.genruntimeconfig.cache
+C:\Users\backe\dotNet\TicketingSystem\obj\Debug\net6.0\ref\TicketingSystem.dll
